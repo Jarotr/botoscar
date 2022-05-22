@@ -10,12 +10,12 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6285850539404','6285850539404','6285850539404']
+global.premium = ['6285850539404']
+global.ownernomer = '6285850539404'
+global.ownername = 'JAROT Official'
+global.botname = 'OscarMD'
+global.footer = 'JAROT Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
